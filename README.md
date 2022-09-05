@@ -19,4 +19,6 @@ Diagrama de arquitectura. Presenta un menu que nos permite realizar diferentes f
 En la prueba de concepto elaborada se puede observar la entrada de usuario por medio de google para autentificar y subir un archivo, el cual una vez sea subido, sera automáticamente enviado a google drive.
 
 Acceder por medio del archivo inicio para mostrar el log in a la aplicación, una vez haya sido realizado sera transferido a la aplicación.
+<br>
+Los archivos de tipo .js se encargan de realizar la interconexion de los archivos con la api Google drive para su envio por medio de la aplicación realizando uso de credenciales de servicio Oath2.
 
